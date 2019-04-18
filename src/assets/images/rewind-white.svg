@@ -1,0 +1,9 @@
+<svg width="14" height="10" fill="none"
+  xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <symbol id="rewind-white" viewBox="0 0 14 10">
+      <title>rewind-white</title>
+      <path fill-rule="evenodd" clip-rule="evenodd" d="M1.27523 5.2447L7.69439 9.31984C7.87159 9.43631 8.01709 9.35268 8.01709 9.13462V6.70161L12.2771 9.31984C12.4543 9.43631 12.5998 9.35268 12.5998 9.13462V1.21272C12.5998 0.99543 12.4523 0.907977 12.2709 1.01872L8.01709 3.64612V1.21272C8.01709 0.99543 7.86968 0.907977 7.68828 1.01872L1.28057 4.83188C1.09994 4.94263 1.09765 5.12861 1.27523 5.2447V5.2447Z" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+    </symbol>
+  </defs>
+</svg>

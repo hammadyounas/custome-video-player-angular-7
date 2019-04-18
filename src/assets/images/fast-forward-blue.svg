@@ -1,0 +1,9 @@
+<svg width="13" height="10" fill="none"
+  xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <symbol id="fast-forward-blue" viewBox="0 0 13 10">
+      <title>fast-forward-blue</title>
+      <path fill-rule="evenodd" clip-rule="evenodd" d="M12.1318 4.90292L5.71237 0.827507C5.53517 0.711034 5.38968 0.794665 5.38968 1.01234V3.44567L1.1302 0.827507C0.952625 0.711034 0.807129 0.794665 0.807129 1.01234V8.93442C0.807129 9.15209 0.954916 9.23916 1.13593 9.12879L5.38968 6.50147V8.93442C5.38968 9.15209 5.53708 9.23916 5.71848 9.12879L12.1264 5.31573C12.307 5.20499 12.3093 5.01863 12.1318 4.90292V4.90292Z" stroke="#182848" stroke-linecap="round" stroke-linejoin="round"/>
+    </symbol>
+  </defs>
+</svg>

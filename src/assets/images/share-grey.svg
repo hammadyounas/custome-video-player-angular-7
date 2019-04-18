@@ -1,0 +1,17 @@
+<svg width="11" height="11" fill="none"
+  xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <symbol id="share-grey" viewBox="0 0 11 11">
+      <title>share-grey</title>
+      <g opacity="0.502507">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M9.81255 2.19277C9.81255 2.86766 9.26598 3.41484 8.59048 3.41484C7.91559 3.41484 7.36841 2.86766 7.36841 2.19277C7.36841 1.51727 7.91559 0.970703 8.59048 0.970703C9.26598 0.970703 9.81255 1.51727 9.81255 2.19277V2.19277Z" stroke="white" stroke-linecap="round"/>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M9.81255 8.91396C9.81255 9.58885 9.26598 10.136 8.59048 10.136C7.91559 10.136 7.36841 9.58885 7.36841 8.91396C7.36841 8.23846 7.91559 7.69189 8.59048 7.69189C9.26598 7.69189 9.81255 8.23846 9.81255 8.91396V8.91396Z" stroke="white" stroke-linecap="round"/>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M3.09111 5.55361C3.09111 6.2285 2.54454 6.77568 1.86904 6.77568C1.19415 6.77568 0.646973 6.2285 0.646973 5.55361C0.646973 4.87811 1.19415 4.33154 1.86904 4.33154C2.54454 4.33154 3.09111 4.87811 3.09111 5.55361V5.55361Z" stroke="white" stroke-linecap="round"/>
+        <path d="M7.36831 2.80371L3.09106 4.94233" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M3.16748 6.16455L7.36834 8.30317" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+      </g>
+    </symbol>
+  </defs>
+</svg>
+
+

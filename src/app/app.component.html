@@ -1,5 +1,5 @@
 <!--The content below is only a placeholder and can be replaced.-->
-<div style="text-align:center">
+<!-- <div style="text-align:center">
   <h1>
     Welcome to {{ title }}!
   </h1>
@@ -16,6 +16,23 @@
   <li>
     <h2><a target="_blank" rel="noopener" href="https://blog.angular.io/">Angular blog</a></h2>
   </li>
-</ul>
+</ul> -->
+
+<div class="container">
+  <div class="c-vedio">
+    <video class="video"  #videoPlayer >
+      <source src="http://static.videogular.com/assets/videos/videogular.mp4" type="video/mp4" />
+    </video>
+    <div class="controls">
+      <div class="orange-bar">
+        <div class="orange-juice" [ngStyle]="{width:videoWidth}"></div>
+      </div>
+      <div class="buttons">
+        <button  [ngClass]="playpause == 'pause' ? 'pause' : 'play'"  (click)="toggleVideo($event)"></button>
+        <!-- <button *ngIf="playpause == 'play' ? 'play' : ''"  (click)="toggleVideo($event)"></button> -->
+      </div>
+    </div>
+  </div>
+</div>
 
 <router-outlet></router-outlet>

@@ -1,0 +1,10 @@
+<svg width="17" height="17" fill="none"
+  xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <symbol id="oval-white" viewBox="0 0 17 17">
+      <title>oval-white</title>
+      <path fill-rule="evenodd" clip-rule="evenodd" d="M8.43032 10.7498C10.7926 10.7498 12.7076 8.83481 12.7076 6.47255C12.7076 4.1103 10.7926 2.19531 8.43032 2.19531C6.06806 2.19531 4.15308 4.1103 4.15308 6.47255C4.15308 8.83481 6.06806 10.7498 8.43032 10.7498Z" fill="white"/>
+      <path fill-rule="evenodd" clip-rule="evenodd" d="M8.43032 10.7498C10.7926 10.7498 12.7076 8.83481 12.7076 6.47255C12.7076 4.1103 10.7926 2.19531 8.43032 2.19531C6.06806 2.19531 4.15308 4.1103 4.15308 6.47255C4.15308 8.83481 6.06806 10.7498 8.43032 10.7498Z" fill="url(#paint0_linear)" fill-opacity="0.5" style="mix-blend-mode:multiply"/>
+    </symbol>
+  </defs>
+</svg>

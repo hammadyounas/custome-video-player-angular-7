@@ -1,0 +1,78 @@
+.container{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height:100vh;
+  background: #ccc;
+
+}
+
+.video{
+  width: 100%;
+}
+
+.c-vedio{
+  width: 100%;
+  max-width: 800px;
+  //  background: url('https://res.cloudinary.com/discover-blockchain/image/upload/v1555321833/gs3tu2e2ufmxehhrkvsf.png');
+   position: relative;
+   overflow: hidden;
+}
+
+.c-vedio:hover .controls{
+  transform: translateY(0);
+}
+
+.controls{
+  display: flex;
+  position: absolute;
+  bottom: 0;
+  width:100%;
+  flex-wrap:wrap;
+  background: rgba(0,0,0,0.7);
+  transform: translateY(100%) translateY(-5px);
+  transition: all 0.2s;
+}
+
+.buttons{
+  padding:10px;
+}
+
+.buttons button{
+  background: none;
+  border:none;
+  outline:0;
+  cursor: pointer;
+
+}
+.buttons button:before{
+  content:"\f144";
+  font-family: 'Font Awesome 5 free';
+  width:30px;
+  height:30px;
+  display: 'inline-block';
+  font-size:28px;
+  color:#ffffff;
+}
+
+.buttons button.play:before{
+  content:'\f144';
+}
+
+.buttons button.pause:before{
+  content:'\f28b';
+}
+
+.orange-bar{
+  height: 10px;
+  top:0;
+  left:0;
+  width:100%;
+  background: #000;
+}
+
+.orange-juice{
+  height: 10px;
+  background-color: orangered;
+}

@@ -1,0 +1,10 @@
+<svg width="8" height="13" fill="none"
+  xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <symbol id="pause-blue" viewBox="0 0 17 17">
+      <title>pause-blue</title>
+      <path fill-rule="evenodd" clip-rule="evenodd" d="M7.47651 11.5516H5.12402V1.16406H7.47651V11.5516Z" stroke="#182848" stroke-linecap="round" stroke-linejoin="round"/>
+      <path fill-rule="evenodd" clip-rule="evenodd" d="M3.10737 11.5521H0.754883V1.16455H3.10737V11.5521Z" stroke="#182848" stroke-linecap="round" stroke-linejoin="round"/>
+    </symbol>
+  </defs>
+</svg>

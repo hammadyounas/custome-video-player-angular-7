@@ -1,0 +1,16 @@
+<svg width="14" height="9" fill="none"
+  xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <symbol id="menu-grey" viewBox="0 0 14 9">
+      <title>menu-grey</title>
+      <g opacity="0.502507">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M1.33669 2.00807H0.521973V1.19336H1.33669V2.00807Z" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M1.3362 7.71071H0.521484V6.896H1.3362V7.71071Z" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M1.3362 4.85915H0.521484V4.04443H1.3362V4.85915Z" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M4.19385 4.45215H12.7357" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M4.19385 1.60059H12.7357" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M4.19385 7.30322H12.7357" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+      </g>
+    </symbol>
+  </defs>
+</svg>

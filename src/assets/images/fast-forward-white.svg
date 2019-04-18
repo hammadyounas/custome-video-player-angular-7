@@ -1,0 +1,9 @@
+<svg width="14" height="10" fill="none"
+  xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <symbol id="fast-forward-white" viewBox="0 0 14 10">
+      <title>fast-forward-white</title>
+      <path fill-rule="evenodd" clip-rule="evenodd" d="M12.4613 5.09872L6.04196 1.02331C5.86476 0.906834 5.71927 0.990466 5.71927 1.20814V3.64147L1.45979 1.02331C1.28221 0.906834 1.13672 0.990466 1.13672 1.20814V9.13022C1.13672 9.34789 1.28451 9.43496 1.46552 9.32459L5.71927 6.69727V9.13022C5.71927 9.34789 5.86667 9.43496 6.04807 9.32459L12.456 5.51153C12.6366 5.40079 12.6389 5.21443 12.4613 5.09872V5.09872Z" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+    </symbol>
+  </defs>
+</svg>
