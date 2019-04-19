@@ -1,5 +1,7 @@
 import { Component, ViewChild, ElementRef } from '@angular/core';
 
+// import {} from './../assets/images/play.svg'
+
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',

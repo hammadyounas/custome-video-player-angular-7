@@ -1,8 +1,8 @@
 <svg width="9" height="13" fill="none"
   xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <symbol id="double-back-white" viewBox="0 0 9 13">
-      <title>double-back-white</title>
+    <symbol id="pause-white" viewBox="0 0 9 13">
+      <title>pause-white</title>
       <path fill-rule="evenodd" clip-rule="evenodd" d="M7.80561 11.7474H5.45312V1.35986H7.80561V11.7474Z" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
       <path fill-rule="evenodd" clip-rule="evenodd" d="M3.43671 11.7479H1.08423V1.36035H3.43671V11.7479Z" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
     </symbol>
