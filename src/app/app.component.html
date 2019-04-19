@@ -7,8 +7,14 @@
     </video>
     <div class="controls">
       <div class="orange-bar">
-        <div class="oval" [ngStyle]="{left:videoWidth}"></div>
-        <div class="orange-juice" [ngStyle]="{width:videoWidth}"></div>
+
+
+
+        <div class="buffer" [ngStyle]="{width:bufferWidth}">
+            <div class="oval" [ngStyle]="{left:videoWidth}"></div>
+            <div class="orange-juice" [ngStyle]="{width:videoWidth}"></div>
+        </div>
+
       </div>
       <div class="buttons">
         <button>
@@ -22,7 +28,11 @@
           </svg>
         </button>
         <button [ngClass]="playpause == 'pause' ? 'pause' : 'play'" (click)="toggleVideo($event)">
-          <svg >
+          <svg *ngIf="playpause == 'play'">
+            <!-- <img *ngIf="playpause == play" src="./../assets/images/play-white.svg" /> -->
+            <use xlink:href="./../assets/images/play-white.svg#play-white"></use>
+          </svg>
+          <svg *ngIf="playpause == 'pause'">
             <use xlink:href="./../assets/images/pause-white.svg#pause-white"></use>
           </svg>
         </button>

@@ -67,13 +67,13 @@
 }
 
 
-.buttons button.play:before {
-  // content: "\f144";
-}
+// .buttons button.play:before {
+//   // content: "\f144";
+// }
 
-.buttons button.pause:before {
-  // content: "\f28b";
-}
+// .buttons button.pause:before {
+//   // content: "\f28b";
+// }
 
 .orange-bar {
   height: 6px;
@@ -87,6 +87,16 @@
   border-radius: 4.5px;
   position: relative;
   display: flex;
+}
+
+.buffer{
+  height: 6px;
+  background-color: rgba(0,0,0,0.31);
+  mix-blend-mode: normal;
+  // opacity: 0.31;
+  border-radius: 4.5px;
+  position: relative;
+    display: flex;
 }
 
 .oval{
